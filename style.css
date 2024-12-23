@@ -3,6 +3,9 @@
     padding: 0; */
     box-sizing: border-box;
 }
+body {
+    margin: 88px 80px 88px 80px;
+}
 #container {
     width: 1120px;
 
@@ -17,4 +20,8 @@
   img {
     border-radius: 28px;
     width: 100%;
+  }
+
+  ul {
+    list-style: none;
   }
