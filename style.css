@@ -50,9 +50,6 @@ img {
 #title-list p {
   margin: 8px 0 64px 0;
 }
-#title-list h3 {
-  color: #e1624f;
-}
 
 .divisor {
   width: 100%;
@@ -70,4 +67,13 @@ img {
 
 #travel ul {
   margin: 0;
+}
+
+#travel li {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+ul li::marker {
+  color: #333333;
 }
