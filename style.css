@@ -80,3 +80,10 @@ img {
 ul li::marker {
   color: #333333;
 }
+
+footer {
+  text-align: center;
+  margin-top: 65px;
+  font-size: 13px;
+  font-weight: bold;
+}
