@@ -66,12 +66,15 @@ img {
 }
 
 #travel ul {
-  margin: 0;
+  margin: 0 0 0 20px;
+  margin-bottom: 48px;
 }
 
 #travel li {
   color: #0C51A7;
   font-weight: bold;
+  margin-left: 10px;
+  
 }
 
 ul li::marker {
