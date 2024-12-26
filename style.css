@@ -6,13 +6,13 @@
 }
 body {
   margin: 88px 80px 88px 80px;
-  background-color: #f5f4f0;
+  background-color: #1B1B1B;
 }
 p {
-  color: #333333;
+  color: #969696;
 }
 h1, h2, h3 {
-  color: #1B1B1B;
+  color: #f5f4f0;
 }
 h2 {
   font-size: 32px;
@@ -31,6 +31,9 @@ span {
 img {
   border-radius: 28px;
   width: 100%;
+}
+strong {
+  color: #f5f4f0;
 }
 #header h1 {
   font-size: 36px;
@@ -78,10 +81,11 @@ img {
 }
 
 ul li::marker {
-  color: #333333;
+  color: #d9d9d9;
 }
 
 footer {
+  color: #f5f4f0;
   text-align: center;
   margin-top: 65px;
   font-size: 13px;
